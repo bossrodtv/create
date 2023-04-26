@@ -24,23 +24,29 @@ export default function MyApp({ Component, pageProps }: AppProps<{ dehydratedSta
   return (
     <React.Fragment>
       <Head>
-        <title>Template Next TypeScript</title>
+        <title>bossROD TV | CLI - Create App</title>
 
         {/* <!-- Viewport --> */}
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 
         {/* <!--  Primary --> */}
-        <meta name="title" content="constROD's Website" />
-        <meta name="description" content="constROD's Personal Website" />
-        <meta name="application_name" content="constROD's App" />
+        <meta name="title" content="bossROD TV | CLI - Create App" />
+        <meta
+          name="description"
+          content="Introducing bossROD TV's versatile CLI tool, simplifying the process of creating cutting-edge applications like Next.js, React, and Serverless Framework. Benefit from built-in TypeScript, ESLint, Prettier, and more, as you streamline your development experience with this powerful, user-friendly command-line interface crafted by a passionate Pinoy programmer behind bossROD TV."
+        />
+        <meta name="application_name" content="bossROD TV | CLI - Create App" />
 
         {/* <!--  Open Graph / Facebook --> */}
-        <meta property="og:title" content="constROD's Website" />
+        <meta property="og:title" content="bossROD TV | CLI - Create App" />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="constROD's Website" />
-        <meta property="og:url" content="https://constrod.me" />
-        <meta property="og:image" content="https://constrod.me/banner.png" />
-        <meta property="og:description" content="constROD's Personal Website" />
+        <meta property="og:site_name" content="bossROD TV | CLI - Create App" />
+        <meta property="og:url" content="https://create.bossrod.tv" />
+        <meta property="og:image" content="https://create.bossrod.tv/banner.png" />
+        <meta
+          property="og:description"
+          content="Introducing bossROD TV's versatile CLI tool, simplifying the process of creating cutting-edge applications like Next.js, React, and Serverless Framework. Benefit from built-in TypeScript, ESLint, Prettier, and more, as you streamline your development experience with this powerful, user-friendly command-line interface crafted by a passionate Pinoy programmer behind bossROD TV."
+        />
 
         {/* <!--  Twitter --> */}
         <meta name="twitter:card" content="summary_large_image" />
