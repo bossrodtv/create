@@ -1,0 +1,40 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "pnpm",
+    "commitlint",
+    "WORKDIR",
+    "svgr",
+    "postcss",
+    "todos",
+    "msapplication",
+    "accum",
+    "zustand",
+    "immer",
+    "tailwindcss",
+    "maxage",
+    "tanstack",
+    "opentype",
+    "truetype",
+    "pallete",
+    "mydomain",
+    "browserconfig",
+    "mstile",
+    "bossrod",
+    "bossrodtv",
+    "middlewares",
+    "hookform",
+    "sonarcloud",
+    "constrod"
+  ],
+  "ignorePaths": [
+    "./node_modules",
+    "./build",
+    "./dist",
+    "./public",
+    "./.husky",
+    "./pnpm-lock.yaml",
+    "./package.json"
+  ]
+}

@@ -1,0 +1,38 @@
+node_modules
+
+.eslintcache
+.pnpm-store
+.next
+out
+coverage
+
+build
+dist
+
+.DS_Store
+.env
+.env.*
+.env-*
+.npmrc
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vercel
+*.tsbuildinfo
+
+!**.example
+
+# Remove the following line if you want to check in your npm lock file.
+*-lock.json
+# Remove the following line if you want to check in your pnpm lock file.
+# *-lock.yaml
+# Remove the following line if you want to check in your yarn lock file.
+*.lock
+
+logs
+*.log
+*-debug.log*
+*-error.log*
